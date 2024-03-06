@@ -8,8 +8,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=459&lines=Software+Engineer%2C+Desktop+Application;Online+Marketer+and+IT+Support" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm a Software Engineer, Desktop Application, Online Marketer, IT Support
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm a ML Engineer, Desktop Application, Online Marketer, IT Support
+- 👨‍💻 As a AI student, I'm constantly learning and exploring new technologies to improve my skills.
 
 
 ### Connect with Me :
