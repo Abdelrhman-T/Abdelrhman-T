@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=459&lines=Software+Engineer%2C+Desktop+Application;Online+Marketer+and+IT+Support" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=459&lines=ML+Engineer%2C+Desktop+Application;Online+Marketer+and+IT+Support" alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a ML Engineer, Desktop Application, Online Marketer, IT Support
